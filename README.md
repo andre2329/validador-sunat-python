@@ -6,7 +6,7 @@ Validador de comprobantes de pago con lenguaje python y la librería [PySide2](h
 
 Este programa interactúa con la API de Sunat para comprobar la validez de comprobantes de pago registrados en un archivo 'dbf'.
 
-## Importante!
+## Importante
 
 La estructura del archivo dbf deberá tener el nombre de 'tbregdatos.dbf' o se podrá modificar en el archivo con nombre 'main' y la estructura de la tabla deberá tener al menos los siguientes datos:
 | RUC_EMPR | COD_OPER | SER_DOCU | NUM_DOCU | FCH_EMIS | IMP_MONA | IMP_MOEX | MES_ANO |
