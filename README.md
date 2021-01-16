@@ -1,5 +1,6 @@
 # Validador de comprobantes de pago con API SUNAT para archivos DBF
-Validador de comprobantes de pago con lenguaje python y la librería [PySide2](https://pypi.org/project/PySide2/) para la interfaz de usuario. 
+Validador de comprobantes de pago con lenguaje python y la librería [PySide2](https://pypi.org/project/PySide2/) para la interfaz de usuario. Todos loas alineamientos se dan según la documentacion oficial de la 
+([SUNAT](https://cpe.sunat.gob.pe/sites/default/files/inline-files/Manual-de-Consulta-Integrada-de-Comprobante-de-Pago-por-ServicioWEB_v2.pdf)) 
 
 ## Explicación
 
